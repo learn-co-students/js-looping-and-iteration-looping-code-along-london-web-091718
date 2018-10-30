@@ -28,6 +28,12 @@
   },
   "homepage": "https://github.com/learn-co-curriculum/js-looping-and-iteration-looping-code-along#readme",
   "devDependencies": {
+    "eslint": "^5.8.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-defaults": "^9.0.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.2",
+    "eslint-plugin-react": "^7.11.1",
     "learn-browser": "^0.1.13"
   }
 }
